@@ -26,7 +26,6 @@ const TitleText = styled.h2`
     line-height: normal;
     letter-spacing: 0.28px;
     text-transform: uppercase;
-    flex-basis: 100%;
     @media (min-width: 900px) {
         font-size: 45px;
         margin: 56px 0 0 0;
