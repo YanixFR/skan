@@ -9,9 +9,9 @@ https://skan-sf.vercel.app
 
 Используйте следующие учетные записи для входа в систему:
 
-Логин: sf_student1 | Пароль: 4i2385j
-Логин: sf_student10 | Пароль: KHKfTXb
-Логин: sf_student3 | Пароль: 6z9ZFRs
+Логин: sf_student1 | Пароль: 4i2385j <br>
+Логин: sf_student10 | Пароль: KHKfTXb <br>
+Логин: sf_student3 | Пароль: 6z9ZFRs 
 
 <h2> Использование </h2>
 
