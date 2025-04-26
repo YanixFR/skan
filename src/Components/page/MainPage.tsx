@@ -17,7 +17,7 @@ const ContainerMain = styled.div`
     flex-direction: column;
 `;
 const TitleText = styled.h2`
-    margin: 56px 0 0 24px;
+    margin: 56px 0 0 1px;
     color: #000;
     font-family: Ferry;
     font-size: 28px;
@@ -33,7 +33,7 @@ const TitleText = styled.h2`
     }
 `;
 const Text = styled.p`
-    margin: 19px 0 320px 0; 
+    margin: 19px 0 30px 0; 
     color: #000;
     font-family: Inter;
     font-size: 18px;
